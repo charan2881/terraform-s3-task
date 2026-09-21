@@ -685,4 +685,20 @@ Successfully created a Terraform configuration for provisioning a \*\*tagged and
 This project serves as a basic introduction to managing AWS infrastructure using Terraform and Infrastructure as Code.
 
 
+###screenshots 
+<img width="1920" height="1080" alt="Screenshot 2026-09-22 020318" src="https://github.com/user-attachments/assets/504af94a-d570-4c02-aea9-fda4c66c6133" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-22 020305" src="https://github.com/user-attachments/assets/170cddd9-7caa-4512-90be-56ff1b889e9b" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-22 020139" src="https://github.com/user-attachments/assets/a357d36b-bc06-4ed8-9026-761951700381" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-22 020102" src="https://github.com/user-attachments/assets/5c11bcbb-c832-4150-b853-77e0a6a39d10" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-22 020021" src="https://github.com/user-attachments/assets/e4afa3d7-3b1b-4f0d-aaf8-261954c23de9" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-22 020006" src="https://github.com/user-attachments/assets/00fc6de7-e7cf-42b6-a028-1e60989ebc70" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-22 015952" src="https://github.com/user-attachments/assets/c45b2b4d-5497-45fd-b69b-14a11a1fa316" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-22 015924" src="https://github.com/user-attachments/assets/7e18db9e-964e-4604-92f2-4ddbcf696cf4" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-22 015911" src="https://github.com/user-attachments/assets/29986d60-ba00-497b-a4f6-d801470ec08e" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-22 015838" src="https://github.com/user-attachments/assets/01266986-92f1-40fb-b269-6148db03f934" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-22 015822" src="https://github.com/user-attachments/assets/6c4b2ae4-3934-4495-8ab8-1d04e9e80a15" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-22 015726" src="https://github.com/user-attachments/assets/974dd9c7-c235-4b8e-a67a-b5d9efd7aff9" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-22 015703" src="https://github.com/user-attachments/assets/049a70c6-5507-4760-8908-9d72929c4dd0" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-22 015621" src="https://github.com/user-attachments/assets/55738bea-9d2f-4b48-9e40-071deb6bdce0" />
+
 
